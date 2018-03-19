@@ -1,6 +1,6 @@
 # Chocolatier
 
-Laravel based NuGet/Chocolatey package repository. Forked from [LaGet](https://github.com/ikkentim/LaGet) with many enhancements.
+Laravel based NuGet/Chocolatey package repository. Forked from [LaGet](https://github.com/ikkentim/LaGet) with many enhancements and fixes.
 
 
 <img src="https://raw.githubusercontent.com/MelonSmasher/Chocolatier/master/public/images/logo/logo2x.png" alt="logo" style="width: 512px;"/>
@@ -16,7 +16,7 @@ Chocolatier allows you to host your own NuGet repository on any platform that ca
 
 A live example of Chocolatier can be found at [choco.sage.edu](https://choco.sage.edu). The example site is also utilizing my [NuGetReflector](https://github.com/MelonSmasher/NuGetReflector).
 
-The current release of Chocolatier is based on Laravel 5.4.
+The current release of Chocolatier is based on Laravel 5.5.
 
 ## Installation:
 
